@@ -48,7 +48,7 @@ class AboutPage extends StatelessWidget {
                 // Örneğin: Navigator.push(context, MaterialPageRoute(builder: (context) => GitHubPage()));
               },
               child: Text(
-                'https://github.com/kullaniciadi/mealsapp',
+                'https://github.com/bilal1616/meals_app',
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.blue,
