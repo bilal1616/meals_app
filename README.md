@@ -11,12 +11,12 @@ Flutter: UI geliştirmek için kullanılan çerçeve.
 Provider: State yönetimi için kullanılan paket.
 
 
-<img src="anasayfa.png" height="400">
-<img src="menu.png" height="400">
-<img src="filtre.png" height="400">
-<img src="favoriler.png" height="400">
-<img src="yemeklistesi.png" height="400">
-<img src="yemekicerigi.png" height="400">
-<img src="bugunneyesem.png" height="400">
-<img src="yardımmenu.png" height="400">
-<img src="hakkında.png" height="400">
+<img src="assets/anasayfa.png" height="400">
+<img src="assets/menu.png" height="400">
+<img src="assets/filtre.png" height="400">
+<img src="assets/favoriler.png" height="400">
+<img src="assets/yemeklistesi.png" height="400">
+<img src="assets/yemekicerigi.png" height="400">
+<img src="assets/bugunneyesem.png" height="400">
+<img src="assets/yardımmenu.png" height="400">
+<img src="assets/hakkında.png" height="400">
