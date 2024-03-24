@@ -3,13 +3,13 @@
 Flutter provider yönetimi ile geliştirilmiş yemek tariflerini içeren bir mobil uygulamadır.
 
 ## Özellikler
-</br>
+
 Anasayfa: Yemek kategorilerinin listelendiği kısım.
 </br>
 Drawer menu: Menü de kullanıcı favori listesini profil geçişlerini öneri sayfasını yardım ve uygulama hakkında içerikleri görmektedir.
 
 ## Kullanılan Teknolojiler
-</br>
+
 Flutter: UI geliştirmek için kullanılan çerçeve.
 </br>
 Provider: State yönetimi için kullanılan paket.
