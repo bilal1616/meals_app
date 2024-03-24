@@ -1,18 +1,22 @@
 # mealsapp
 
-A new Flutter project.
+Flutter provider yönetimi ile geliştirilmiş yemek tarfilerini içeren bir mobil uygulamadır.
 
-## Getting Started
+## Özellikler
+Anasayfa: Yemek kategorilerinin listelendiği kısım.
+Drawer menu: Menü de kullanıcı favori listesini profil geçişlerini öneri sayfasını yardım ve uygulama hakkında içerikleri görmektedir.
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
+Flutter: UI geliştirmek için kullanılan çerçeve.
+Provider: State yönetimi için kullanılan paket.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-<video src="https://github.com/bilal1616/meals_app/assets/92885233/5525e217-4202-4e11-ae38-fb205273ff96" autoplay>
+<img src="anasayfa.png" height="400">
+<img src="menu.png" height="400">
+<img src="filtre.png" height="400">
+<img src="favoriler.png" height="400">
+<img src="yemeklistesi.png" height="400">
+<img src="yemekicerigi.png" height="400">
+<img src="bugunneyesem.png" height="400">
+<img src="yardımmenu.png" height="400">
+<img src="hakkında.png" height="400">

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:mealsapp/providers/favorites_provider.dart';
-import 'package:mealsapp/models/meal.dart';
 
 // Favorites sınıfı, favori yemekleri listelemek için kullanılır ve ConsumerStatefulWidget türündedir
 class Favorites extends ConsumerStatefulWidget {

@@ -43,7 +43,7 @@ class Categories extends StatelessWidget {
           style: const TextStyle(
             color: Colors.black,
             fontSize: 20,
-            fontWeight: FontWeight.w500,
+            fontWeight: FontWeight.w500, 
           ),
         ),
         onTap: () {
