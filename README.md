@@ -4,9 +4,9 @@ Flutter provider yönetimi ile geliştirilmiş yemek tariflerini içeren bir mob
 
 ## Özellikler
 
-Anasayfa: Yemek kategorilerinin listelendiği kısım.
+Anasayfa : Yemek kategorilerinin listelendiği kısım.
 </br>
-Drawer menu: Menü de kullanıcı favori listesini profil geçişlerini öneri sayfasını yardım ve uygulama hakkında içerikleri görmektedir.
+Drawer : Menü de kullanıcı favori listesini profil geçişlerini öneri sayfasını yardım ve uygulama hakkında içerikleri görmektedir.
 
 ## Kullanılan Teknolojiler
 
