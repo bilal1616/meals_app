@@ -1,6 +1,6 @@
 # mealsapp
 
-Flutter provider yönetimi ile geliştirilmiş yemek tarfilerini içeren bir mobil uygulamadır.
+Flutter provider yönetimi ile geliştirilmiş yemek tariflerini içeren bir mobil uygulamadır.
 
 ## Özellikler
 Anasayfa: Yemek kategorilerinin listelendiği kısım.
